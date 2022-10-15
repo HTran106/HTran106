@@ -23,6 +23,9 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Huy%20Tran-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <br></br>
+
+### :hammer_and_wrench: Languages and Tools :
+
 <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"     height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
