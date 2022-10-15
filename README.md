@@ -20,7 +20,7 @@
 
 - :seedling: Exploring the endless possibilities with code.
 
-- :zap: In my free time, I solve problems on Leetcode, Codewars and watch coding tutorials on YouTube.
+- :zap: In my free time, I solve problems on Leetcode, CodeWars, HackerRank and watch coding tutorials on YouTube.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Huy%20Tran-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
