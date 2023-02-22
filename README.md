@@ -49,6 +49,8 @@
 
 ### :fire: My Stats :
 
+![Snake animation](https://github.com/htran106/htran106/blob/output/github-contribution-grid-snake.svg)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=htran106&theme=chartreuse-dark&background=000000)](https://git.io/streak-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=htran106&count_private=true&include_all_commits=true&theme=chartreuse-dark&show_icons=true)
 
